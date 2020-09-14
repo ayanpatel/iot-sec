@@ -1,6 +1,6 @@
 # iot-sec
 IoT Security Thesis
 
-Data Analysis of IoT network traffic and power data to identify patterns.
+TRAFFIC PRIVACY STUDY ON INTERNET OF THINGS - SMART HOME APPLICATIONS
 
-Adding noise to network traffic to prevent pattern identification. 
+Traffic shaping algorithms 
